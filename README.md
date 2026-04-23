@@ -101,3 +101,5 @@ This library is open source and community-driven. Contributions are welcome! If 
 📜 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+This repo was forked from nick-aschenback/dnd-data and unlinked simply to make GitHub Pages easier to enable. None of the work herein is my own.
